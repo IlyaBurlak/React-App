@@ -4,7 +4,7 @@ import ChatList from "./chatList/ChatList.jsx";
 
 const List = () =>{
     return(
-    <div classame="list">
+    <div className="list">
         <Userinfo/>
         <ChatList/>
     </div>
